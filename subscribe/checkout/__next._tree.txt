@@ -1,6 +1,6 @@
-:HL["/alterna-demo/_next/static/chunks/4056rxh9ne4mz.css","style"]
+:HL["/alterna-demo/_next/static/chunks/02cawojfv462-.css","style"]
 :HC["/",""]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":"checkout","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"subscribe","h":96,"c":"$Q2"}]]
-0:{"b":"hCJVTOjL1H4e8PirqfiYK","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"1MTgltDlP-KIjqONJy5SL","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
