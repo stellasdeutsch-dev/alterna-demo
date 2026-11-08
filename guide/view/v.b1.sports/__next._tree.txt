@@ -1,8 +1,8 @@
 :HL["/alterna-demo/_next/static/chunks/2iwv-g99f3uh3.css","style"]
-:HL["/alterna-demo/_next/static/chunks/3o1d-jnmj7ld1.css","style"]
+:HL["/alterna-demo/_next/static/chunks/0vncjx7d_uakw.css","style"]
 :HC["/",""]
 4:[["children",{"s":"__PAGE__","h":160}]]
 3:[["children",{"s":{"n":"id","t":"d","k":"v.b1.sports","s":[]},"h":96,"c":"$Q4"}]]
 2:[["children",{"s":"view","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"guide","h":96,"c":"$Q2"}]]
-0:{"b":"V_r5lNVpRyZsuGKsAukqa","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"xIFG2NLgST1yxigUBNGMO","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
