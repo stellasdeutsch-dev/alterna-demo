@@ -1,6 +1,12 @@
 :HL["/alterna-demo/_next/static/chunks/2iwv-g99f3uh3.css","style"]
-:HL["/alterna-demo/_next/static/chunks/3nfjjnzk-12h4.css","style"]
+:HL["/alterna-demo/_next/static/chunks/0cbcbdb-lzlee.css","style"]
 :HC["/",""]
+:HL["/alterna-demo/library/youtube-1280.webp","image",{"imageSrcSet":"/alterna-demo/library/youtube-640.webp 640w, /alterna-demo/library/youtube-1280.webp 1280w","imageSizes":"(min-width: 768px) 33vw, 100vw"}]
+:HL["/alterna-demo/library/books-1280.webp","image",{"imageSrcSet":"/alterna-demo/library/books-640.webp 640w, /alterna-demo/library/books-1280.webp 1280w","imageSizes":"(min-width: 768px) 33vw, 100vw"}]
+:HL["/alterna-demo/library/films-1280.webp","image",{"imageSrcSet":"/alterna-demo/library/films-640.webp 640w, /alterna-demo/library/films-1280.webp 1280w","imageSizes":"(min-width: 768px) 33vw, 100vw"}]
+:HL["/alterna-demo/library/cartoons-1280.webp","image",{"imageSrcSet":"/alterna-demo/library/cartoons-640.webp 640w, /alterna-demo/library/cartoons-1280.webp 1280w","imageSizes":"(min-width: 768px) 33vw, 100vw"}]
+:HL["/alterna-demo/library/podcasts-1280.webp","image",{"imageSrcSet":"/alterna-demo/library/podcasts-640.webp 640w, /alterna-demo/library/podcasts-1280.webp 1280w","imageSizes":"(min-width: 768px) 33vw, 100vw"}]
+:HL["/alterna-demo/library/apps-1280.webp","image",{"imageSrcSet":"/alterna-demo/library/apps-640.webp 640w, /alterna-demo/library/apps-1280.webp 1280w","imageSizes":"(min-width: 768px) 33vw, 100vw"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"library","h":96,"c":"$Q2"}]]
-0:{"b":"ZtUF0Xve9GQ4IMCZsWHhK","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"Sb7-T3KaUgkL01yok85mQ","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
