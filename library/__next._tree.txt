@@ -1,5 +1,5 @@
 :HL["/alterna-demo/_next/static/chunks/2iwv-g99f3uh3.css","style"]
-:HL["/alterna-demo/_next/static/chunks/0cbcbdb-lzlee.css","style"]
+:HL["/alterna-demo/_next/static/chunks/0-ev56lrx1dxo.css","style"]
 :HC["/",""]
 :HL["/alterna-demo/library/youtube-1280.webp","image",{"imageSrcSet":"/alterna-demo/library/youtube-640.webp 640w, /alterna-demo/library/youtube-1280.webp 1280w","imageSizes":"(min-width: 768px) 33vw, 100vw"}]
 :HL["/alterna-demo/library/books-1280.webp","image",{"imageSrcSet":"/alterna-demo/library/books-640.webp 640w, /alterna-demo/library/books-1280.webp 1280w","imageSizes":"(min-width: 768px) 33vw, 100vw"}]
@@ -9,4 +9,4 @@
 :HL["/alterna-demo/library/apps-1280.webp","image",{"imageSrcSet":"/alterna-demo/library/apps-640.webp 640w, /alterna-demo/library/apps-1280.webp 1280w","imageSizes":"(min-width: 768px) 33vw, 100vw"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"library","h":96,"c":"$Q2"}]]
-0:{"b":"Sb7-T3KaUgkL01yok85mQ","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"Tvf0ap6pzTUXUg-QkbeaY","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
